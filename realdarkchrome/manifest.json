@@ -1,0 +1,31 @@
+{"name":"RealDark for Chrome",
+	"version":"1.0",
+	"description":"",
+	"manifest_version":2,
+	"theme":{
+		"images":{
+			"theme_frame":"images\/theme_frame.png",
+			"theme_toolbar":"images\/theme_toolbar.png",
+			"theme_tab_background":"images\/theme_tab_background.png",
+			"theme_ntp_background":"images\/theme_ntp_background.png"
+		},
+		"colors":{
+			"frame":[3,3,3],
+			"toolbar":[37,37,37],
+			"tab_text":[48,112,255],
+			"tab_background_text":[208,208,208],
+			"bookmark_text":[221,221,221],
+			"ntp_background":[15,15,15],
+			"ntp_text":[48,112,255],
+			"ntp_link":[0,0,0],
+			"button_background":[29,29,29,0.9]
+		},
+		"tints":{
+			"buttons":[0.61,1,0.59]
+		},
+		"properties":{
+			"ntp_background_alignment":"bottom",
+			"ntp_background_repeat":"no-repeat"
+		}
+	}
+}
